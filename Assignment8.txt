@@ -1,0 +1,10 @@
+WAP to create a list having formula of a circle where radius is between 1 to n
+
+WAP that accepts x from user and computes the value of x+x^2+x^3
+
+WAP to print all alphabets in a string. Print buzzzzz when it is a vowel
+
+WAP to calculate factorial of the input number
+
+WAP to calculate 10 fibonacci series
+Output: 1,1,2,3,5,8,13,21,34,55
